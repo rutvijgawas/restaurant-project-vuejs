@@ -1,0 +1,60 @@
+{
+  "user": [
+    {
+      "id": "751f",
+      "name": "rutvij",
+      "email": "rutvijgawas@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "6606",
+      "name": "bruse",
+      "email": "bruse@test.com",
+      "password": "bruce@123"
+    },
+    {
+      "id": "c442",
+      "name": "test3",
+      "email": "test3@test.com",
+      "password": "12345678"
+    },
+    {
+      "id": "bcec",
+      "name": "new user",
+      "email": "newuser@test.com",
+      "password": "12345678"
+    },
+    {
+      "id": "bbb3",
+      "name": "new user",
+      "email": "login@test.com",
+      "password": "12345678"
+    }
+  ],
+  "restaurants": [
+    {
+      "id": "e567",
+      "name": "goan spice",
+      "contact": 9933049320,
+      "address": "querim-goa"
+    },
+    {
+      "id": "7f0e",
+      "name": "new restro",
+      "address": "banastari - goadrghrd",
+      "contact": "99232295598"
+    },
+    {
+      "id": "537e",
+      "name": "new resrtro ",
+      "address": "panaji goa",
+      "contact": "92239202930"
+    },
+    {
+      "id": "5b4d",
+      "name": "green park restro",
+      "address": "mapusa goa",
+      "contact": "998877665544"
+    }
+  ]
+}
